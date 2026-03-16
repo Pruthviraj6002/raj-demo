@@ -1,4 +1,4 @@
 # raj-demo
 This is my first Repository
 <br>
-Author :- Pruthviraj Mahajan
+Author :- Pruthviraj (Mali)
